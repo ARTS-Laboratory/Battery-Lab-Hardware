@@ -2,4 +2,7 @@
 
 
 ## Cable #1
-SB 75 to ring terminmal
+SBS75X to #8 stud ring terminmal
+
+## Cable #2
+SBS75X to SB50
