@@ -4,9 +4,11 @@
 
 ## Versions
 
-### V0.1
+### V0.1.0
 The inital version that was in the lab in August 2026.
 * This hardware setup had issues with voltage drop across all of the connectors. 
 * The contents of this folder are copied form https://github.com/ARTS-Laboratory/Parallel-Current-Analysis-Platform-PCAP
 
+### V0.1.1
+A cleaned up version of V0.1.0
 
