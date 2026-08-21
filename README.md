@@ -4,7 +4,7 @@ Home for hardware components of the USC battery Lab
 <p align="center">
   <img src="media/USC-Battery-Testing-Facility.png" alt="Test setup" width="700">
   <br>
-  <em>Figure 1. Test setup.</em>
+  <em>Figure 1. The USC Battery Testing Lab.</em>
 </p>
 
 ## Licensing and Citation
