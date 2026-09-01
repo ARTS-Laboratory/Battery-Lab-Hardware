@@ -11,3 +11,6 @@ EBC 320 to SBS75X
 
 ## Cable #4
 SBS75X to SBS75X
+
+## Cable #5
+EBC 320 to #8 stud ring terminmal
