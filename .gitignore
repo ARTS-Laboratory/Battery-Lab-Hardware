@@ -1,0 +1,19 @@
+# =========================================================================
+# Microsoft Office Temporary & Auto-Save Files
+# =========================================================================
+
+# General temporary files
+*.tmp
+
+# Word temporary files (e.g., ~$document.docx)
+~$*.doc*
+~$*.dot*
+
+# Excel temporary files (e.g., ~$spreadsheet.xlsx)
+~$*.xls*
+
+# PowerPoint temporary files (e.g., ~$presentation.pptx)
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
