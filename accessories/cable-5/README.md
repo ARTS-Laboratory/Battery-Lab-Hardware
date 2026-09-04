@@ -1,5 +1,8 @@
 # Cable #5
-EBC 320 to #8 stud ring terminmal
+A320 to #8 stud ring terminmal
+
+* Our current working hypothesis is that this connector uses the older A320 (A-Series) configuration rather than the newer EBC 320 (E-Series) configuration.
+
 
 
 <p align="center">
