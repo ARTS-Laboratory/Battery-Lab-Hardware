@@ -1,14 +1,10 @@
-# ITech three cell parallel chamber
-* Custom parallel three-cell cycler built using one ITECH IT-M3412 bidirectional DC power supply.
-* The single channel tests three cells and is rated for 60 V DC, 30 A, and 200 W.
+# nhr-9200-three-cell-parallel
 
-## Versions
+* Simplified three cell in parallel setup desinged to work with the NHR.
+* No temperatue chamber is used for this setup, cells test in abminet contions on a shelf.
 
-### V0.1.0
-The inital version that was in the lab in August 2026.
-* This hardware setup had issues with voltage drop across all of the connectors. 
-* The contents of this folder are copied form https://github.com/ARTS-Laboratory/Parallel-Current-Analysis-Platform-PCAP
-
-### V0.1.1
-A cleaned up version of V0.1.0
-
+<p align="center">
+  <img src="media/test_setup.png" alt="Test setup" width="400">
+  <br>
+  <em>Figure 1. Test setup.</em>
+</p>
