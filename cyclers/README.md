@@ -19,8 +19,24 @@ This repository contains hardware documentation, control code, LabVIEW programs,
 * Uses large, high-current cables that are heavier and less flexible than the cables used with the other cyclers.
 * Each channel is rated for up to 120 V DC, 200 A, and 12 kW.
 
+## nhr-9200-three-cell-parallel
+* Cabinet-based NHR 9200 system using a 4912 high-current power module.
+* Supports simultaneous cycling of three cells connected in parallel.
+* Cells are mounted on a wooden test board with individual current measurements.
+* Simple configuration without relays, switched interconnects, or impedance measurement.
+* Power module is rated for up to 120 V DC, 200 A, and 12 kW.
+
 ## itech-three-cell-chamber
 * Custom three-cell cycler built using three ITECH IT-M3412 bidirectional DC power supplies.
 * Supports simultaneous testing of up to three cells.
 * Cells are housed in an InQ temperature-controlled chamber to maintain a consistent test temperature.
 * Each channel is rated for up to 60 V DC, 30 A, and 200 W.
+  
+## itech-three-cell-parallel
+* Custom three-cell parallel cycler built using one ITECH IT-M3412 bidirectional DC power supply.
+* Supports simultaneous cycling of three cells connected in parallel.
+* Uses individual current probes to measure the current through each cell.
+* Power supply is rated for up to 60 V DC, 30 A, and 200 W.
+
+
+  
