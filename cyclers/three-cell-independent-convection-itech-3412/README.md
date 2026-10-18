@@ -4,6 +4,14 @@
 * Cells are housed in an InQ temperature-controlled chamber to maintain a consistent test temperature.
 * Each channel is rated for up to 60 V DC, 30 A, and 200 W.
 
+
+<p align="center">
+  <img src="media/test_setup.png" alt="Test setup" width="400">
+  <br>
+  <em>Figure 1. Test setup.</em>
+</p>
+
+
 ## Versions
 
 # V0.1
