@@ -1,4 +1,4 @@
-# itech-three-cell-chamber
+# three-cell-independent-convection-nhr-4960
 * Custom three-cell cycler built using three ITECH IT-M3412 bidirectional DC power supplies.
 * Supports simultaneous testing of up to three cells.
 * Cells are housed in an InQ temperature-controlled chamber to maintain a consistent test temperature.

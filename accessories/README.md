@@ -1,9 +1,8 @@
 # Accessories
 
-## Cable #2
-SBS75X to SB50
+## SBS75X to SB50
+Cables for SBS75X to SB50 connectors 
 
-## Cable #4
-SBS75X to SBS75X
-
+## SBS75X to SBS75X
+Cables for SBS75X to SBS75X connectors 
 

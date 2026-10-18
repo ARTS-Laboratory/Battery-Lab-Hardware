@@ -1,6 +1,5 @@
-# Cable #1
-SBS75X to #8 stud ring terminmal
-
+# SBS75X to SBS75X
+Cable for SBS75X to SBS75X connectors 
 
 <p align="center">
   <img src="media/cable_assembly.png" alt="Test setup" width="400">

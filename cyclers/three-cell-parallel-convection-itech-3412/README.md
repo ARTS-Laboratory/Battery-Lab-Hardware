@@ -1,4 +1,4 @@
-# ITech three cell parallel chamber
+# three-cell-parallel-convection-itech-3412
 * Custom parallel three-cell cycler built using one ITECH IT-M3412 bidirectional DC power supply.
 * The single channel tests three cells and is rated for 60 V DC, 30 A, and 200 W.
 

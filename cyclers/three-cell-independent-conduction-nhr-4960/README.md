@@ -1,4 +1,4 @@
-# nhr-9200-liquid-cooled-single-cell
+# three-cell-independent-conduction-nhr-4960
 * Cabinet-based NHR 9200 system with three independent 4960 power modules.
 * Configured for individual cell testing, with one cell connected to each channel.
 * Cells are placed in insulated test enclosures and maintained at the target temperature using forced-water cooling.
